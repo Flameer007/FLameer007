@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Flameer007/FLameer007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems Engineering student (9th semester) based in Lima, Peru.
 
-Here are some ideas to get you started:
+I specialize in Software Development and IT Support, with a strong focus on building efficient solutions and managing databases. I have a hybrid profile that combines technical skills in Java and Python with experience in customer-facing roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring the latest versions of Next.js and React to build modern web applications.
+---
+Tools & TechLanguages
+Languages: Java (17/21), Python 3.12, Modern JavaScript.
+Frontend: React 18, Next.js 14/15, HTML5 & CSS3.
+Backend & DB: SQL Server 2022, ERP systems (OneSoft).
+Cloud & Systems: AWS & Google Cloud (Basics), Linux (Ubuntu).
+Agile: Scrum and Kanban methodologies.
+---
+A Bit About Me
+🗣️ English Level: C1 (Advanced).
+🎓 Education: Currently finishing my degree at Universidad Tecnológica del Perú.
+🛠️ Experience: Worked in IT Support and SQL maintenance for ERP tools.
+🌊 Vibe: Driven by logic, creativity, and the "Yeezus" state of mind.
+🚀 Goal: I like building things that are simple, useful, and high-performance.
+---
+Connect with me
+Email: adriel.ramirezp@gmail.com 
+Location: Lima, Peru 🇵🇪
